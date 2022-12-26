@@ -1,1 +1,1 @@
-(https://bakibakikun.github.io/rsschool-cv/cv)
+(https://bakibakikun.github.io/rsschool/cv)
